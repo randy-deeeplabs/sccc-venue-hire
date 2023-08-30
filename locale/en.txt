@@ -1,0 +1,480 @@
+#: locale=en
+
+## Action
+
+### URL
+LinkBehaviour_736C1165_4F1C_A6FF_41C4_7D871329E6FC.source = https://singaporeccc.org.sg/venue-hire/
+LinkBehaviour_667AF498_4514_52B8_41BC_60FEF0DE3594.source = https://singaporeccc.org.sg/venue-hire/
+LinkBehaviour_736E4169_4F1C_A6F7_41CD_86F4D020AC29.source = https://singaporeccc.org.sg/venue-hire/
+LinkBehaviour_61190736_4515_FF88_41C0_2ADB0FE4097A.source = https://singaporeccc.org.sg/venue-hire/
+LinkBehaviour_1B630A17_00B3_7D26_414C_0EB00934945C.source = https://www.facebook.com/singaporechineseculturalcentre/
+LinkBehaviour_7342A1B7_4F1C_A65B_41BD_B66A298EFFBF.source = https://www.facebook.com/singaporechineseculturalcentre/
+LinkBehaviour_734541B8_4F1C_A655_41C4_17899351A38D.source = https://www.instagram.com/singaporechineseculturalcentre/
+LinkBehaviour_1A8E2BA8_00B5_7368_4147_6AF33DE6ED08.source = https://www.instagram.com/singaporechineseculturalcentre/
+LinkBehaviour_1CD79C45_00D5_551B_4140_538CCAA6BB53.source = https://www.linkedin.com/company/28705894/admin/
+LinkBehaviour_7342F1BE_4F1C_A64D_41C2_8EEC2ED9B100.source = https://www.linkedin.com/company/28705894/admin/
+LinkBehaviour_1BF56F23_00B5_3318_4128_9639EB0FC524.source = https://www.tiktok.com/@singaporeccc
+LinkBehaviour_734311BC_4F1C_A64D_41C2_F11DD82A25AF.source = https://www.tiktok.com/@singaporeccc
+LinkBehaviour_1C33325D_00B5_2D2B_4140_DF9189FC6F42.source = https://www.youtube.com/@SingaporeCCC
+LinkBehaviour_734E91BA_4F1C_A655_41C1_679C4C281216.source = https://www.youtube.com/@SingaporeCCC
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_353C3B75_103F_3E27_41A3_730DED77BFDB.toolTip = Auditorium
+HotspotPanoramaOverlayArea_34C2446F_1030_EA23_41AB_1CD77081530F.toolTip = Dressing Room
+HotspotPanoramaOverlayArea_36284E7E_1031_3625_41A2_124C1CC1A7A4.toolTip = Dressing Room 1
+HotspotPanoramaOverlayArea_36719519_1031_2BEF_41A1_5F7EA4B33536.toolTip = Dressing Room 1
+HotspotPanoramaOverlayArea_32CD7D67_11B2_84E5_419A_925406DCF316.toolTip = Dressing Room 1
+HotspotPanoramaOverlayArea_359600DD_11B2_BC2A_4168_B668C1A9E7E8.toolTip = Dressing Room 1
+HotspotPanoramaOverlayArea_35F84B2A_1033_7E2D_41A5_44DAEAEBFF3F.toolTip = Dressing Room 2
+HotspotPanoramaOverlayArea_3FC670DF_11FF_BC26_41AD_BB59E49E7ECE.toolTip = Foyer
+HotspotPanoramaOverlayArea_37F72DE8_1051_3A2D_41AB_D51DB841763C.toolTip = Foyer
+HotspotPanoramaOverlayArea_3797F96C_1051_1A25_41A8_1F8EEC9F8BF9.toolTip = Foyer
+HotspotPanoramaOverlayArea_38B049A9_1191_8C6A_41B0_230288698DA2.toolTip = Foyer
+HotspotPanoramaOverlayArea_3A750BF6_11F1_83E6_41A0_153107F52B5B.toolTip = Foyer
+HotspotPanoramaOverlayArea_3D666202_11F6_9C1E_41AA_5C116757EA6C.toolTip = Foyer
+HotspotPanoramaOverlayArea_3C5197E0_11F1_841A_419B_9D3D87082B0E.toolTip = Foyer
+HotspotPanoramaOverlayArea_3A3C20EB_11EF_9DEE_4191_38BB10D87F97.toolTip = Foyer
+HotspotPanoramaOverlayArea_3D190D8B_11F6_842E_4181_FD373E29E2BA.toolTip = Foyer
+HotspotPanoramaOverlayArea_3F99ED8A_11FE_842E_4178_C2800BF1EE68.toolTip = Foyer
+HotspotPanoramaOverlayArea_3ACAA845_1191_8C1A_41A6_032F2E5E450E.toolTip = Foyer
+HotspotPanoramaOverlayArea_3DC734D4_11F1_843A_418E_C6DD9D472244.toolTip = Foyer
+HotspotPanoramaOverlayArea_3EBDAE0B_11F1_842E_41AC_B6BB43FEC8EC.toolTip = Foyer
+HotspotPanoramaOverlayArea_3D9E6164_11F2_9C1A_4183_3E0197107411.toolTip = Foyer
+HotspotPanoramaOverlayArea_3CF1B110_11F2_9C3A_41A6_3D0FFA85F4A8.toolTip = Foyer
+HotspotPanoramaOverlayArea_3C3925D6_11F3_8426_41B1_712BC7B31F38.toolTip = Foyer
+HotspotPanoramaOverlayArea_3A434DF6_11F2_87E6_41A4_DF4E2E3937E9.toolTip = Foyer
+HotspotPanoramaOverlayArea_3F0870AE_11FE_9C66_4195_CB28F5C42898.toolTip = Foyer
+HotspotPanoramaOverlayArea_358C5E5E_1030_F665_4196_DC29D9F46BDD.toolTip = Studio
+
+## Media
+
+### Subtitle
+panorama_10131278_1D2C_6913_4197_BDDBAD7972F1.subtitle = Nulla malesuada vel viverra orci neque nullam interdum. Sem orci in vulputate id porttitor pulvinar diam. Sit id semper eleifend imperdiet.
+
+### Title
+panorama_3B2F53DD_104F_6E67_4192_9C9985B1D990.label = CB Seminar
+panorama_3B2F1A99_104F_7EEF_4198_0E5E1A0B6A78.label = CB Workshop
+panorama_53AA13B1_44EB_D688_4196_CEEF64D9ADE4.label = MPH Banquet Style 1-1
+panorama_53FBA5CF_44EB_D298_41B2_9C7DA778E4E6.label = MPH Banquet Style 1-2
+panorama_521ACEF1_44F4_4E88_41A8_1A4B6FC42B64.label = MPH Banquet Style 1-3
+panorama_3B2F4F02_104F_17DD_41AA_96A5E7CA631A.label = MPH Banquet Style 2-1
+panorama_3AD0A612_104F_29FD_41AC_D23AC9C1A400.label = MPH Banquet Style 2-2
+panorama_3B2F6D13_104F_3BE3_41A4_9E4E86A689F3.label = MPH Banquet Style 2-3
+panorama_11D8D449_1D14_A975_41A9_28A1C6730939.label = MPH Empty 1-1
+panorama_1138FC3A_1D14_B917_41B7_EF2B28E65F3E.label = MPH Empty 1-2
+panorama_3AD0E08A_104F_6AED_419A_E81A56DC5780.label = MPH Exhibition 1-1
+panorama_3AD085F7_104F_2A23_41AC_ED67F2331BFA.label = MPH Exhibition 1-2
+panorama_3B209AEA_104F_3E2D_4186_7B0E1EF77841.label = MPH Exhibition 1-3
+panorama_1138246E_1D14_A90F_41BB_B042495BEEB1.label = MPH Foyer
+panorama_3B2F87E7_104F_7623_41A1_D81482A9772B.label = MPH Townhall Style 1-1
+panorama_37E93128_15EB_D2B7_419F_BB626F46CC23.label = MPH Townhall Style 1-2
+panorama_048C12CB_1B35_08FB_41A0_1259B3E4D969.label = MPH Townhall Style 1-3
+panorama_3B2FBBDD_104F_3E67_4167_5D6AF4168FD4.label = MPH Townhall Style 2-1
+panorama_371B11C7_15EC_B5F9_418C_C29737E52405.label = MPH Townhall Style 2-2
+panorama_3B2F9287_104F_2EE3_416C_DF59ABA0252E.label = MPH Townhall Style 2-3
+panorama_53CF9B7C_44F4_3678_41CC_4F21CCF47D80.label = RS Recital
+panorama_3B2F4CBB_104F_1A23_4188_430D434EF198.label = RS Seminar
+panorama_1174CC5D_1D2C_5912_41BB_77AF70B95A30.label = ZAC_4362-VIP_Lounge
+panorama_1125A636_1D14_E91E_41B4_474EDE138E07.label = ZAC_4398-Auditorium
+panorama_1125DE7B_1D14_D915_4184_831CC37E2697.label = ZAC_4413-Auditorium
+panorama_112536F2_1D14_A916_41B1_F700AD906CD8.label = ZAC_4440-Auditorium
+panorama_112560A6_1D14_A93F_4193_FAF425ACCDAA.label = ZAC_4455-Auditorium
+panorama_1124CAFF_1D14_590D_41B5_4859AE712448.label = ZAC_4482-Auditorium
+panorama_112534B3_1D14_6915_41B3_7E02E020BE8F.label = ZAC_4494-Auditorium
+panorama_11240F3F_1D14_770D_41AE_C2D4EEEF1E0E.label = ZAC_4512-Auditorium
+panorama_11249A0E_1D14_590F_41A2_987751033E90.label = ZAC_4527-Auditorium
+panorama_11279457_1D17_A91D_412D_5AD326D03060.label = ZAC_4539-Auditorium
+panorama_11279E2D_1D17_B90D_41B4_B12ED5213F58.label = ZAC_4551-Auditorium
+panorama_11242884_1D17_D9F3_41B6_3C9BB9FC6E47.label = ZAC_4563-Auditorium
+panorama_16923B1F_1D1C_5F0E_41B4_8CF2C503D2F2.label = ZAC_4590-Recital_Studio
+panorama_1693A44D_1D1C_A972_41A6_5148FF0D1F42.label = ZAC_4602-Recital_Studio
+panorama_1139DD19_1D14_5B12_41BB_291E0107D148.label = ZAC_4689-Multi_Purpose_Hall
+panorama_1151ADB2_1D14_FB17_419A_28EE25442536.label = auditorium
+panorama_11711690_1D1C_E912_41A9_BD73E049FAD3.label = creative-room
+panorama_113814D7_1D14_691E_41A5_47B154E0F9FE.label = multi-purpose-hall
+panorama_16D370F8_1D1C_6913_413C_3FD1ECCD26B0.label = recital-studio
+panorama_10131278_1D2C_6913_4197_BDDBAD7972F1.label = vip-lounge
+
+## Skin
+
+### Button
+Button_AA5FF31A_BBC5_EC0C_41C6_400886C8C9E0_mobile.label = Auditorium
+Button_AA5FF31A_BBC5_EC0C_41C6_400886C8C9E0.label = Auditorium
+Button_AFC7CDBA_BBC3_340C_41E0_5E752E0DBB93_mobile.label = Creative Box
+Button_AFC7CDBA_BBC3_340C_41E0_5E752E0DBB93.label = Creative Box
+Button_398379E1_22D8_11B3_41B0_FED81DB81BD5.label = Multi-Purpose Hall
+Button_398379E1_22D8_11B3_41B0_FED81DB81BD5_mobile.label = Multi-Purpose Hall
+Button_393255EE_22D8_31B1_413E_7EE61BCF5C80.label = Recital Studio
+Button_393255EE_22D8_31B1_413E_7EE61BCF5C80_mobile.label = Recital Studio
+Button_A84F59A8_BBCC_DC0D_41E0_085720C49CBE.label = VIP Lounge
+Button_A84F59A8_BBCC_DC0D_41E0_085720C49CBE_mobile.label = VIP Lounge
+
+### Image
+Image_00A09BC8_1D14_BF72_41B2_B62D1EF25D6C.url = skin/Image_00A09BC8_1D14_BF72_41B2_B62D1EF25D6C_en.png
+Image_00A09BC8_1D14_BF72_41B2_B62D1EF25D6C_mobile.url = skin/Image_00A09BC8_1D14_BF72_41B2_B62D1EF25D6C_mobile_en.png
+Image_00DF026B_1D14_6935_41A4_6B32BB92B4D6.url = skin/Image_00DF026B_1D14_6935_41A4_6B32BB92B4D6_en.png
+Image_00DF026B_1D14_6935_41A4_6B32BB92B4D6_mobile.url = skin/Image_00DF026B_1D14_6935_41A4_6B32BB92B4D6_mobile_en.png
+Image_01A54DE9_1D14_BB35_416B_8313CE0074AA.url = skin/Image_01A54DE9_1D14_BB35_416B_8313CE0074AA_en.png
+Image_01A54DE9_1D14_BB35_416B_8313CE0074AA_mobile.url = skin/Image_01A54DE9_1D14_BB35_416B_8313CE0074AA_mobile_en.png
+Image_03E1C90B_1DEC_B8F5_41B0_890124820096.url = skin/Image_03E1C90B_1DEC_B8F5_41B0_890124820096_en.png
+Image_03E1C90B_1DEC_B8F5_41B0_890124820096_mobile.url = skin/Image_03E1C90B_1DEC_B8F5_41B0_890124820096_mobile_en.png
+Image_066FF69F_1D1C_690E_41B7_72146750D323.url = skin/Image_066FF69F_1D1C_690E_41B7_72146750D323_en.png
+Image_066FF69F_1D1C_690E_41B7_72146750D323_mobile.url = skin/Image_066FF69F_1D1C_690E_41B7_72146750D323_mobile_en.png
+Image_06927AE0_1DEC_B933_41AF_5EA994E65864.url = skin/Image_06927AE0_1DEC_B933_41AF_5EA994E65864_en.png
+Image_06927AE0_1DEC_B933_41AF_5EA994E65864_mobile.url = skin/Image_06927AE0_1DEC_B933_41AF_5EA994E65864_mobile_en.png
+Image_06D83950_1DEC_7B12_41B6_0AF55F8990AE.url = skin/Image_06D83950_1DEC_7B12_41B6_0AF55F8990AE_en.png
+Image_06D83950_1DEC_7B12_41B6_0AF55F8990AE_mobile.url = skin/Image_06D83950_1DEC_7B12_41B6_0AF55F8990AE_mobile_en.png
+Image_11AEBF3E_0A10_501E_4199_06997DC9A456.url = skin/Image_11AEBF3E_0A10_501E_4199_06997DC9A456_en.png
+Image_11AEBF3E_0A10_501E_4199_06997DC9A456_mobile.url = skin/Image_11AEBF3E_0A10_501E_4199_06997DC9A456_mobile_en.png
+Image_11AF8F40_0A10_5062_4175_A31204D29F78.url = skin/Image_11AF8F40_0A10_5062_4175_A31204D29F78_en.png
+Image_11AF8F40_0A10_5062_4175_A31204D29F78_mobile.url = skin/Image_11AF8F40_0A10_5062_4175_A31204D29F78_mobile_en.png
+Image_3421B3B7_2278_3190_41BE_9ADD538F5466.url = skin/Image_3421B3B7_2278_3190_41BE_9ADD538F5466_en.png
+Image_3421B3B7_2278_3190_41BE_9ADD538F5466_mobile.url = skin/Image_3421B3B7_2278_3190_41BE_9ADD538F5466_mobile_en.png
+Image_347894C3_0E73_D065_41A7_98B526622A9D.url = skin/Image_347894C3_0E73_D065_41A7_98B526622A9D_en.png
+Image_347894C3_0E73_D065_41A7_98B526622A9D_mobile.url = skin/Image_347894C3_0E73_D065_41A7_98B526622A9D_mobile_en.png
+Image_347FE4C4_0E73_D063_4161_15089E593829.url = skin/Image_347FE4C4_0E73_D063_4161_15089E593829_en.png
+Image_347FE4C4_0E73_D063_4161_15089E593829_mobile.url = skin/Image_347FE4C4_0E73_D063_4161_15089E593829_mobile_en.png
+Image_34A04FA9_0E70_3025_418D_C367F15B3266.url = skin/Image_34A04FA9_0E70_3025_418D_C367F15B3266_en.png
+Image_34A04FA9_0E70_3025_418D_C367F15B3266_mobile.url = skin/Image_34A04FA9_0E70_3025_418D_C367F15B3266_mobile_en.png
+Image_34A19FA8_0E70_3023_4181_F79026774666.url = skin/Image_34A19FA8_0E70_3023_4181_F79026774666_en.png
+Image_34A19FA8_0E70_3023_4181_F79026774666_mobile.url = skin/Image_34A19FA8_0E70_3023_4181_F79026774666_mobile_en.png
+Image_35F0930B_0E10_51E6_419A_A48E96A71FB9.url = skin/Image_35F0930B_0E10_51E6_419A_A48E96A71FB9_en.png
+Image_35F0930B_0E10_51E6_419A_A48E96A71FB9_mobile.url = skin/Image_35F0930B_0E10_51E6_419A_A48E96A71FB9_mobile_en.png
+Image_35F5330C_0E10_51E2_418C_925FC06D3EF8.url = skin/Image_35F5330C_0E10_51E2_418C_925FC06D3EF8_en.png
+Image_35F5330C_0E10_51E2_418C_925FC06D3EF8_mobile.url = skin/Image_35F5330C_0E10_51E2_418C_925FC06D3EF8_mobile_en.png
+Image_36199222_0E70_5027_4172_D6C1F50CED12.url = skin/Image_36199222_0E70_5027_4172_D6C1F50CED12_en.png
+Image_36199222_0E70_5027_4172_D6C1F50CED12_mobile.url = skin/Image_36199222_0E70_5027_4172_D6C1F50CED12_mobile_en.png
+Image_361E9220_0E70_5023_418A_03160585F7F4.url = skin/Image_361E9220_0E70_5023_418A_03160585F7F4_en.png
+Image_361E9220_0E70_5023_418A_03160585F7F4_mobile.url = skin/Image_361E9220_0E70_5023_418A_03160585F7F4_mobile_en.png
+Image_36DB66D4_0E13_F063_419D_F3683DECD726.url = skin/Image_36DB66D4_0E13_F063_419D_F3683DECD726_en.png
+Image_36DB66D4_0E13_F063_419D_F3683DECD726_mobile.url = skin/Image_36DB66D4_0E13_F063_419D_F3683DECD726_mobile_en.png
+Image_36DC56D3_0E13_F065_4171_4F5BBD019CFF.url = skin/Image_36DC56D3_0E13_F065_4171_4F5BBD019CFF_en.png
+Image_36DC56D3_0E13_F065_4171_4F5BBD019CFF_mobile.url = skin/Image_36DC56D3_0E13_F065_4171_4F5BBD019CFF_mobile_en.png
+Image_373226EE_2278_33B1_413D_50B1656C5718.url = skin/Image_373226EE_2278_33B1_413D_50B1656C5718_en.png
+Image_373226EE_2278_33B1_413D_50B1656C5718_mobile.url = skin/Image_373226EE_2278_33B1_413D_50B1656C5718_mobile_en.png
+Image_37584065_0E10_3022_414B_42A1B0C38D3B.url = skin/Image_37584065_0E10_3022_414B_42A1B0C38D3B_en.png
+Image_37584065_0E10_3022_414B_42A1B0C38D3B_mobile.url = skin/Image_37584065_0E10_3022_414B_42A1B0C38D3B_mobile_en.png
+Image_375B5064_0E10_3022_4161_17DBB1F86355.url = skin/Image_375B5064_0E10_3022_4161_17DBB1F86355_en.png
+Image_375B5064_0E10_3022_4161_17DBB1F86355_mobile.url = skin/Image_375B5064_0E10_3022_4161_17DBB1F86355_mobile_en.png
+Image_3776CDCC_0E30_3062_4191_6249B840F571.url = skin/Image_3776CDCC_0E30_3062_4191_6249B840F571_en.png
+Image_3776CDCC_0E30_3062_4191_6249B840F571_mobile.url = skin/Image_3776CDCC_0E30_3062_4191_6249B840F571_mobile_en.png
+Image_377B8DCD_0E30_3062_417B_E785B7215632.url = skin/Image_377B8DCD_0E30_3062_417B_E785B7215632_en.png
+Image_377B8DCD_0E30_3062_417B_E785B7215632_mobile.url = skin/Image_377B8DCD_0E30_3062_417B_E785B7215632_mobile_en.png
+Image_37AC0489_0E10_50E5_4167_702B39F60E78.url = skin/Image_37AC0489_0E10_50E5_4167_702B39F60E78_en.png
+Image_37AC0489_0E10_50E5_4167_702B39F60E78_mobile.url = skin/Image_37AC0489_0E10_50E5_4167_702B39F60E78_mobile_en.png
+Image_37AC6488_0E10_50E3_4163_CAE5DF6594EA.url = skin/Image_37AC6488_0E10_50E3_4163_CAE5DF6594EA_en.png
+Image_37AC6488_0E10_50E3_4163_CAE5DF6594EA_mobile.url = skin/Image_37AC6488_0E10_50E3_4163_CAE5DF6594EA_mobile_en.png
+Image_394C35EF_22D8_318F_418F_2DC988BD9B3C.url = skin/Image_394C35EF_22D8_318F_418F_2DC988BD9B3C_en.png
+Image_394C35EF_22D8_318F_418F_2DC988BD9B3C_mobile.url = skin/Image_394C35EF_22D8_318F_418F_2DC988BD9B3C_mobile_en.png
+Image_394D05EF_22D8_318F_41A2_28429BB35FB6.url = skin/Image_394D05EF_22D8_318F_41A2_28429BB35FB6_en.png
+Image_394D05EF_22D8_318F_41A2_28429BB35FB6_mobile.url = skin/Image_394D05EF_22D8_318F_41A2_28429BB35FB6_mobile_en.png
+Image_394F55EF_22D8_318F_418D_824981D0498C.url = skin/Image_394F55EF_22D8_318F_418D_824981D0498C_en.png
+Image_394F55EF_22D8_318F_418D_824981D0498C_mobile.url = skin/Image_394F55EF_22D8_318F_418D_824981D0498C_mobile_en.png
+Image_398439E1_22D8_11B3_41C0_2EB1F9D327EA.url = skin/Image_398439E1_22D8_11B3_41C0_2EB1F9D327EA_en.png
+Image_398439E1_22D8_11B3_41C0_2EB1F9D327EA_mobile.url = skin/Image_398439E1_22D8_11B3_41C0_2EB1F9D327EA_mobile_en.png
+Image_398519E2_22D8_11B1_41AE_B7A4A44CD3AF.url = skin/Image_398519E2_22D8_11B1_41AE_B7A4A44CD3AF_en.png
+Image_398519E2_22D8_11B1_41AE_B7A4A44CD3AF_mobile.url = skin/Image_398519E2_22D8_11B1_41AE_B7A4A44CD3AF_mobile_en.png
+Image_3985E9E2_22D8_11B1_41BC_A70CC0E61363.url = skin/Image_3985E9E2_22D8_11B1_41BC_A70CC0E61363_en.png
+Image_3985E9E2_22D8_11B1_41BC_A70CC0E61363_mobile.url = skin/Image_3985E9E2_22D8_11B1_41BC_A70CC0E61363_mobile_en.png
+Image_3B83AE0A_2238_1271_41C0_690A9AC18F33.url = skin/Image_3B83AE0A_2238_1271_41C0_690A9AC18F33_en.png
+Image_3B83AE0A_2238_1271_41C0_690A9AC18F33_mobile.url = skin/Image_3B83AE0A_2238_1271_41C0_690A9AC18F33_mobile_en.png
+Image_3C745629_2258_12B0_4173_5FDF725C1C9A.url = skin/Image_3C745629_2258_12B0_4173_5FDF725C1C9A_en.png
+Image_3C745629_2258_12B0_4173_5FDF725C1C9A_mobile.url = skin/Image_3C745629_2258_12B0_4173_5FDF725C1C9A_mobile_en.png
+Image_3C76F62A_2258_12B0_41A4_D35939C16D7C.url = skin/Image_3C76F62A_2258_12B0_41A4_D35939C16D7C_en.png
+Image_3C76F62A_2258_12B0_41A4_D35939C16D7C_mobile.url = skin/Image_3C76F62A_2258_12B0_41A4_D35939C16D7C_mobile_en.png
+Image_41D50AEC_0E1F_D022_419C_1B0FE53C7BB4.url = skin/Image_41D50AEC_0E1F_D022_419C_1B0FE53C7BB4_en.png
+Image_41D50AEC_0E1F_D022_419C_1B0FE53C7BB4_mobile.url = skin/Image_41D50AEC_0E1F_D022_419C_1B0FE53C7BB4_mobile_en.png
+Image_43174D98_0E10_70E2_41A1_084F88B84914.url = skin/Image_43174D98_0E10_70E2_41A1_084F88B84914_en.png
+Image_43174D98_0E10_70E2_41A1_084F88B84914_mobile.url = skin/Image_43174D98_0E10_70E2_41A1_084F88B84914_mobile_en.png
+Image_44F35347_5A87_005E_41D1_6BC593D41502_mobile.url = skin/Image_44F35347_5A87_005E_41D1_6BC593D41502_mobile_en.png
+Image_44F68530_5A87_0032_41A8_200AF6B7F5F4_mobile.url = skin/Image_44F68530_5A87_0032_41A8_200AF6B7F5F4_mobile_en.png
+Image_44F6C73B_5A87_0035_41C1_69C7018DD4A3_mobile.url = skin/Image_44F6C73B_5A87_0035_41C1_69C7018DD4A3_mobile_en.png
+Image_45978191_5A87_00F2_41B9_C10F83BEC236_mobile.url = skin/Image_45978191_5A87_00F2_41B9_C10F83BEC236_mobile_en.png
+Image_476B8053_5A8F_0075_41D3_D14DAE795B94_mobile.url = skin/Image_476B8053_5A8F_0075_41D3_D14DAE795B94_mobile_en.png
+Image_6A99D666_4F0D_AAFD_41CC_E82469E2CED5.url = skin/Image_6A99D666_4F0D_AAFD_41CC_E82469E2CED5_en.png
+Image_6A99D666_4F0D_AAFD_41CC_E82469E2CED5_mobile.url = skin/Image_6A99D666_4F0D_AAFD_41CC_E82469E2CED5_mobile_en.png
+Image_6DB5BFA7_4F0D_5A7B_41C4_D719BCEC3612.url = skin/Image_6DB5BFA7_4F0D_5A7B_41C4_D719BCEC3612_en.png
+Image_6DB5BFA7_4F0D_5A7B_41C4_D719BCEC3612_mobile.url = skin/Image_6DB5BFA7_4F0D_5A7B_41C4_D719BCEC3612_mobile_en.png
+Image_A9B33623_BBC5_3403_41E6_B5970A4D02D6.url = skin/Image_A9B33623_BBC5_3403_41E6_B5970A4D02D6_en.png
+Image_A9B33623_BBC5_3403_41E6_B5970A4D02D6_mobile.url = skin/Image_A9B33623_BBC5_3403_41E6_B5970A4D02D6_mobile_en.png
+Image_AA924BCE_BB3C_DC04_41A3_BA207B1A442A.url = skin/Image_AA924BCE_BB3C_DC04_41A3_BA207B1A442A_en.png
+Image_AA924BCE_BB3C_DC04_41A3_BA207B1A442A_mobile.url = skin/Image_AA924BCE_BB3C_DC04_41A3_BA207B1A442A_mobile_en.png
+Image_B4C59F4D_BB43_D407_41D7_2A32DE42464E.url = skin/Image_B4C59F4D_BB43_D407_41D7_2A32DE42464E_en.png
+Image_B4C59F4D_BB43_D407_41D7_2A32DE42464E_mobile.url = skin/Image_B4C59F4D_BB43_D407_41D7_2A32DE42464E_mobile_en.png
+Image_B4E425B5_BB43_D407_41AF_5364B1DAA0A4.url = skin/Image_B4E425B5_BB43_D407_41AF_5364B1DAA0A4_en.png
+Image_B4E425B5_BB43_D407_41AF_5364B1DAA0A4_mobile.url = skin/Image_B4E425B5_BB43_D407_41AF_5364B1DAA0A4_mobile_en.png
+Image_B4E6BA5A_BB43_7C0C_41D1_8B72E4517624.url = skin/Image_B4E6BA5A_BB43_7C0C_41D1_8B72E4517624_en.png
+Image_B4E6BA5A_BB43_7C0C_41D1_8B72E4517624_mobile.url = skin/Image_B4E6BA5A_BB43_7C0C_41D1_8B72E4517624_mobile_en.png
+
+### Label
+Label_11ACCF40_0A10_5062_41A0_543247B55A3A_mobile.text = AUDITORIUM
+Label_3C77962A_2258_12B0_41A7_17144C514B7C_mobile.text = AUDITORIUM
+Label_11ACCF40_0A10_5062_41A0_543247B55A3A.text = AUDITORIUM
+Label_3C77962A_2258_12B0_41A7_17144C514B7C.text = AUDITORIUM
+Label_A99D70A9_BBC3_2C0F_41CF_E04D04E9B9EF.text = Auditiorium
+Label_A99C60A9_BBC3_2C0F_4186_F20F133A7E4A.text = Auditiorium
+Label_A99D70A9_BBC3_2C0F_41CF_E04D04E9B9EF_mobile.text = Auditiorium
+Label_00A74BC7_1D14_BF7E_41BB_C38380FCA91C_mobile.text = Auditiorium
+Label_00A74BC7_1D14_BF7E_41BB_C38380FCA91C.text = Auditiorium
+Label_A99C60A9_BBC3_2C0F_4186_F20F133A7E4A_mobile.text = Auditiorium
+Label_00431B0F_22C8_328F_417E_7BB670DB0268_mobile.text = Banquet Style 1
+Label_003DCB0F_22C8_328F_41C1_2A29077DE503_mobile.text = Banquet Style 1
+Label_26F7D4CD_1192_842A_41A5_73C94BABF2EB_mobile.text = Banquet Style 1
+Label_0A14F91B_15EB_F289_41AA_6F9C6F0F34A4_mobile.text = Banquet Style 1
+Label_260E03B6_1192_9C66_419D_22AE472FFAD0_mobile.text = Banquet Style 1
+Label_26F8E4CE_1192_8426_41AF_DC1FA032D58C.text = Banquet Style 1
+Label_26F7D4CD_1192_842A_41A5_73C94BABF2EB.text = Banquet Style 1
+Label_37393713_15D7_7E99_41AA_C3C4BBD899DF_mobile.text = Banquet Style 1
+Label_26F8E4CE_1192_8426_41AF_DC1FA032D58C_mobile.text = Banquet Style 1
+Label_0A279E00_15ED_EE77_419B_09E1B5C3FD00_mobile.text = Banquet Style 1
+Label_260D73B5_1192_9C7A_41AF_D20AB3AEF3CA_mobile.text = Banquet Style 1
+Label_0A14F91B_15EB_F289_41AA_6F9C6F0F34A4.text = Banquet Style 1
+Label_260E03B6_1192_9C66_419D_22AE472FFAD0.text = Banquet Style 1
+Label_260D73B5_1192_9C7A_41AF_D20AB3AEF3CA.text = Banquet Style 1
+Label_37393713_15D7_7E99_41AA_C3C4BBD899DF.text = Banquet Style 1
+Label_00431B0F_22C8_328F_417E_7BB670DB0268.text = Banquet Style 1
+Label_003DCB0F_22C8_328F_41C1_2A29077DE503.text = Banquet Style 1
+Label_0A279E00_15ED_EE77_419B_09E1B5C3FD00.text = Banquet Style 1
+Label_261083B9_1192_9C6A_4197_6F4A42EFD3BD.text = Banquet Style 2
+Label_0AED7F15_15D5_AE99_4194_BD70399C0195_mobile.text = Banquet Style 2
+Label_26FAB4D1_1192_843A_41A4_68F10BED13BB_mobile.text = Banquet Style 2
+Label_26FB84D2_1192_843E_4178_3520DA695625_mobile.text = Banquet Style 2
+Label_35EB3DED_15F4_AD89_4195_A2FF17A329C9_mobile.text = Banquet Style 2
+Label_00412B12_22C8_3291_4150_240BF156A7CD_mobile.text = Banquet Style 2
+Label_26FAB4D1_1192_843A_41A4_68F10BED13BB.text = Banquet Style 2
+Label_261083B9_1192_9C6A_4197_6F4A42EFD3BD_mobile.text = Banquet Style 2
+Label_260FC3BA_1192_9C6E_419A_61578EFE6D10_mobile.text = Banquet Style 2
+Label_35EB3DED_15F4_AD89_4195_A2FF17A329C9.text = Banquet Style 2
+Label_26FB84D2_1192_843E_4178_3520DA695625.text = Banquet Style 2
+Label_0AED7F15_15D5_AE99_4194_BD70399C0195.text = Banquet Style 2
+Label_260FC3BA_1192_9C6E_419A_61578EFE6D10.text = Banquet Style 2
+Label_0BEA7F8B_15EB_6D89_41A4_E51E0A16CBD2_mobile.text = Banquet Style 2
+Label_0040CB11_22C8_3293_41B5_FE974229400C.text = Banquet Style 2
+Label_0040CB11_22C8_3293_41B5_FE974229400C_mobile.text = Banquet Style 2
+Label_00412B12_22C8_3291_4150_240BF156A7CD.text = Banquet Style 2
+Label_0BEA7F8B_15EB_6D89_41A4_E51E0A16CBD2.text = Banquet Style 2
+Label_37ADC48A_0E10_50E7_4155_B3498BE41CE8.text = CREATIVE BOX
+Label_34A32FA9_0E70_3025_417D_05A3B14A483C_mobile.text = CREATIVE BOX
+Label_37ADC48A_0E10_50E7_4155_B3498BE41CE8_mobile.text = CREATIVE BOX
+Label_34A32FA9_0E70_3025_417D_05A3B14A483C.text = CREATIVE BOX
+Label_03DDD909_1DEC_B8F5_4199_A9CED024DB3A.text = Dressing Room 1
+Label_00D29268_1D14_6933_4191_4BDC72664C2B_mobile.text = Dressing Room 1
+Label_03E2D90B_1DEC_B8F5_4191_B626430BB3A9.text = Dressing Room 1
+Label_00D0126A_1D14_6937_41A6_99CBA2531238_mobile.text = Dressing Room 1
+Label_00D1C269_1D14_6935_41B2_D1009EDF50FC_mobile.text = Dressing Room 1
+Label_03E2D90B_1DEC_B8F5_4191_B626430BB3A9_mobile.text = Dressing Room 1
+Label_00D29268_1D14_6933_4191_4BDC72664C2B.text = Dressing Room 1
+Label_03E3C90A_1DEC_B8F7_41A6_F04ED0B49B49_mobile.text = Dressing Room 1
+Label_00D0126A_1D14_6937_41A6_99CBA2531238.text = Dressing Room 1
+Label_00D1C269_1D14_6935_41B2_D1009EDF50FC.text = Dressing Room 1
+Label_03DDD909_1DEC_B8F5_4199_A9CED024DB3A_mobile.text = Dressing Room 1
+Label_03E3C90A_1DEC_B8F7_41A6_F04ED0B49B49.text = Dressing Room 1
+Label_43168D97_0E10_70EE_419F_186D26F18530.text = Dressing Room 2
+Label_41D33AEA_0E1F_D026_41A5_DFFF1DBBC299.text = Dressing Room 2
+Label_41D9BAE1_0E1F_D022_41A6_28D02223E584.text = Dressing Room 2
+Label_430FFD89_0E10_70E2_41A3_7FCC98AB4F61.text = Dressing Room 2
+Label_41D9BAE1_0E1F_D022_41A6_28D02223E584_mobile.text = Dressing Room 2
+Label_430C0D8B_0E10_70E6_4152_C63585D4F410_mobile.text = Dressing Room 2
+Label_43168D97_0E10_70EE_419F_186D26F18530_mobile.text = Dressing Room 2
+Label_430FFD89_0E10_70E2_41A3_7FCC98AB4F61_mobile.text = Dressing Room 2
+Label_430C0D8B_0E10_70E6_4152_C63585D4F410.text = Dressing Room 2
+Label_41DA8AE3_0E1F_D026_4184_4A04B8812F58.text = Dressing Room 2
+Label_41D33AEA_0E1F_D026_41A5_DFFF1DBBC299_mobile.text = Dressing Room 2
+Label_41DA8AE3_0E1F_D026_4184_4A04B8812F58_mobile.text = Dressing Room 2
+Label_00466B19_22C8_3293_41A3_7D7FC587D4D7.text = Exhibition Style 1
+Label_0BA6FEA0_15D5_AFB7_4191_CF822F806061.text = Exhibition Style 1
+Label_00415B18_22C8_3291_41BF_2F3F0595F548.text = Exhibition Style 1
+Label_0BE42247_15EC_D6F9_41A4_278DE11D6072.text = Exhibition Style 1
+Label_00415B18_22C8_3291_41BF_2F3F0595F548_mobile.text = Exhibition Style 1
+Label_261003BC_1192_9C6A_41AC_81C30A0E8A0E.text = Exhibition Style 1
+Label_2611A3BD_1192_9C6A_41A6_1AD03E946377.text = Exhibition Style 1
+Label_0BE42247_15EC_D6F9_41A4_278DE11D6072_mobile.text = Exhibition Style 1
+Label_0BA6FEA0_15D5_AFB7_4191_CF822F806061_mobile.text = Exhibition Style 1
+Label_26FA64D5_1192_843A_4161_C1D473137DDC.text = Exhibition Style 1
+Label_00466B19_22C8_3293_41A3_7D7FC587D4D7_mobile.text = Exhibition Style 1
+Label_2611A3BD_1192_9C6A_41A6_1AD03E946377_mobile.text = Exhibition Style 1
+Label_26FBB4D6_1192_8426_418C_3EEBE7E0A99A.text = Exhibition Style 1
+Label_26FBB4D6_1192_8426_418C_3EEBE7E0A99A_mobile.text = Exhibition Style 1
+Label_35FB328E_15F4_D78B_41B4_7FAFA7DA7AFD.text = Exhibition Style 1
+Label_35FB328E_15F4_D78B_41B4_7FAFA7DA7AFD_mobile.text = Exhibition Style 1
+Label_26FA64D5_1192_843A_4161_C1D473137DDC_mobile.text = Exhibition Style 1
+Label_261003BC_1192_9C6A_41AC_81C30A0E8A0E_mobile.text = Exhibition Style 1
+Label_AD4E0D9F_BB3C_D404_41A2_608AC3027E95_mobile.text = Follow us on:
+Label_AE122BA6_BBCD_DC05_41E0_6CEEA4AE0860.text = Follow us on:
+Label_AD4E0D9F_BB3C_D404_41A2_608AC3027E95.text = Follow us on:
+Label_AE122BA6_BBCD_DC05_41E0_6CEEA4AE0860_mobile.text = Follow us on:
+Label_06DAA94F_1DEC_7B0E_41A0_7DE888F623A5_mobile.text = Foyer
+Label_06D4694E_1DEC_7B0E_41A5_2EB3C5F5F411.text = Foyer
+Label_068E1ADE_1DEC_B90F_41AA_C6B631F4338E.text = Foyer
+Label_06D4694E_1DEC_7B0E_41A5_2EB3C5F5F411_mobile.text = Foyer
+Label_068CEADF_1DEC_B90D_41B1_B57A52DAC864.text = Foyer
+Label_06D5B94D_1DEC_7B72_41B3_A34F37104416.text = Foyer
+Label_06DAA94F_1DEC_7B0E_41A0_7DE888F623A5.text = Foyer
+Label_068E1ADE_1DEC_B90F_41AA_C6B631F4338E_mobile.text = Foyer
+Label_068FFADD_1DEC_B90D_41BC_6D934FA0B5C9.text = Foyer
+Label_068CEADF_1DEC_B90D_41B1_B57A52DAC864_mobile.text = Foyer
+Label_06D5B94D_1DEC_7B72_41B3_A34F37104416_mobile.text = Foyer
+Label_068FFADD_1DEC_B90D_41BC_6D934FA0B5C9_mobile.text = Foyer
+Label_01B92DE7_1D14_BB3D_41B9_80080EF65821.text = Hall
+Label_01A43DE9_1D14_BB35_41A1_80F80CC29A5E_mobile.text = Hall
+Label_01A43DE9_1D14_BB35_41A1_80F80CC29A5E.text = Hall
+Label_01B92DE7_1D14_BB3D_41B9_80080EF65821_mobile.text = Hall
+Label_01BBDDE7_1D14_BB3D_41B2_86753B40A21C_mobile.text = Hall
+Label_01BBDDE7_1D14_BB3D_41B2_86753B40A21C.text = Hall
+Label_3614A228_0E70_5023_4197_5BB2EBBC1DB1_mobile.text = Inclusive Items
+Label_37AE448D_0E10_50FD_4191_6D945706B411_mobile.text = Inclusive Items
+Label_377D7DD4_0E30_3062_4172_D817806F4CCA.text = Inclusive Items
+Label_35F63310_0E10_51E2_4188_EA103A296C6B.text = Inclusive Items
+Label_36D736DB_0E13_F065_41A3_C02B1B8E47ED.text = Inclusive Items
+Label_359F8432_0E31_D027_4170_7E0F027B0D6D_mobile.text = Inclusive Items
+Label_375E306B_0E10_3026_418D_5922485BE87A.text = Inclusive Items
+Label_377D7DD4_0E30_3062_4172_D817806F4CCA_mobile.text = Inclusive Items
+Label_11B29F49_0A10_5062_4176_D2200ECC7DF4_mobile.text = Inclusive Items
+Label_36D736DB_0E13_F065_41A3_C02B1B8E47ED_mobile.text = Inclusive Items
+Label_37AE448D_0E10_50FD_4191_6D945706B411.text = Inclusive Items
+Label_375E306B_0E10_3026_418D_5922485BE87A_mobile.text = Inclusive Items
+Label_11B29F49_0A10_5062_4176_D2200ECC7DF4.text = Inclusive Items
+Label_3473B4CB_0E73_D065_4182_A9C4D15B4B5A.text = Inclusive Items
+Label_35F63310_0E10_51E2_4188_EA103A296C6B_mobile.text = Inclusive Items
+Label_34AF0FB2_0E70_3027_4180_5A68D037E268_mobile.text = Inclusive Items
+Label_34AF0FB2_0E70_3027_4180_5A68D037E268.text = Inclusive Items
+Label_3473B4CB_0E73_D065_4182_A9C4D15B4B5A_mobile.text = Inclusive Items
+Label_359F8432_0E31_D027_4170_7E0F027B0D6D.text = Inclusive Items
+Label_3614A228_0E70_5023_4197_5BB2EBBC1DB1.text = Inclusive Items
+Label_36DBC6D5_0E13_F06D_41A5_B4E961A9B07A_mobile.text = MULTI-PURPOSE HALL
+Label_36DBC6D5_0E13_F06D_41A5_B4E961A9B07A.text = MULTI-PURPOSE HALL
+Label_3618C222_0E70_5027_41A2_314DFC304457_mobile.text = MULTI-PURPOSE HALL
+Label_3618C222_0E70_5027_41A2_314DFC304457.text = MULTI-PURPOSE HALL
+Label_B4C785E6_BB4C_D405_41D7_F45E82781F11_mobile.text = Menu
+Label_B4C785E6_BB4C_D405_41D7_F45E82781F11.text = Menu
+Label_3758C066_0E10_302E_419F_AC1C24C46B70_mobile.text = RECITAL STUDIO
+Label_347C64C5_0E73_D06D_419C_E165E3C17F3C_mobile.text = RECITAL STUDIO
+Label_347C64C5_0E73_D06D_419C_E165E3C17F3C.text = RECITAL STUDIO
+Label_3758C066_0E10_302E_419F_AC1C24C46B70.text = RECITAL STUDIO
+Label_00B25559_22C8_F693_41A5_1443A0C9D53B_mobile.text = Recital Style
+Label_00B25559_22C8_F693_41A5_1443A0C9D53B.text = Recital Style
+Label_00B3955A_22C8_F691_41BF_B01D4009A96E.text = Recital Style 
+Label_00B3955A_22C8_F691_41BF_B01D4009A96E_mobile.text = Recital Style 
+Label_34035F56_15F7_AE9B_41AE_9D9DA00A94A6_mobile.text = Recital Style 
+Label_34035F56_15F7_AE9B_41AE_9D9DA00A94A6.text = Recital Style 
+Label_6457F548_25D8_36F0_41BF_C7A38A6FBF8E.text = Seminar Style
+Label_64503549_25D8_36F0_41A6_8B4EFBD25BB1.text = Seminar Style
+Label_3435AB04_15F4_D67F_4183_39D7C6D8F175.text = Seminar Style
+Label_6457F548_25D8_36F0_41BF_C7A38A6FBF8E_mobile.text = Seminar Style
+Label_64503549_25D8_36F0_41A6_8B4EFBD25BB1_mobile.text = Seminar Style
+Label_3435AB04_15F4_D67F_4183_39D7C6D8F175_mobile.text = Seminar Style
+Label_066B469D_1D1C_6912_41BB_8DBB2A4D1FC4.text = Studio
+Label_0668669C_1D1C_6912_4199_4799DD96859C.text = Studio
+Label_066A869E_1D1C_690E_416D_C9339CAA8A50.text = Studio
+Label_0668669C_1D1C_6912_4199_4799DD96859C_mobile.text = Studio
+Label_066A869E_1D1C_690E_416D_C9339CAA8A50_mobile.text = Studio
+Label_066B469D_1D1C_6912_41BB_8DBB2A4D1FC4_mobile.text = Studio
+Label_00B1955D_22C8_F690_41AA_CB06497C7273_mobile.text = Theatre Style
+Label_35C95408_15F7_7277_41AC_232207801B55_mobile.text = Theatre Style
+Label_00B1755B_22C8_F697_4190_B130679D2E66_mobile.text = Theatre Style
+Label_35C95408_15F7_7277_41AC_232207801B55.text = Theatre Style
+Label_00B1755B_22C8_F697_4190_B130679D2E66.text = Theatre Style
+Label_00B1955D_22C8_F690_41AA_CB06497C7273.text = Theatre Style
+Label_261383C1_1192_9C1A_419A_5BDC06E34BBE_mobile.text = Theatre Style 1
+Label_0B9E7A48_15EC_D6F7_41AA_BCB4AA6BA463_mobile.text = Theatre Style 1
+Label_0A1992BC_15D4_D78F_4195_C84709653468_mobile.text = Theatre Style 1
+Label_35D39201_15F7_7679_4193_60ABA2F97145_mobile.text = Theatre Style 1
+Label_00440B1B_22C8_3297_41BB_E655B466222C_mobile.text = Theatre Style 1
+Label_00473B1B_22C8_3297_41BE_9E13DDD53FC5_mobile.text = Theatre Style 1
+Label_0B9E7A48_15EC_D6F7_41AA_BCB4AA6BA463.text = Theatre Style 1
+Label_261383C1_1192_9C1A_419A_5BDC06E34BBE.text = Theatre Style 1
+Label_00473B1B_22C8_3297_41BE_9E13DDD53FC5.text = Theatre Style 1
+Label_0A1992BC_15D4_D78F_4195_C84709653468.text = Theatre Style 1
+Label_2612A3C0_1192_9C1A_4192_995A79F44FC0_mobile.text = Theatre Style 1
+Label_26FCB4D8_1192_842A_4193_8CD8F867BC07.text = Theatre Style 1
+Label_26FCB4D8_1192_842A_4193_8CD8F867BC07_mobile.text = Theatre Style 1
+Label_26FD84DA_1192_842E_4196_55FD11D88D22_mobile.text = Theatre Style 1
+Label_2612A3C0_1192_9C1A_4192_995A79F44FC0.text = Theatre Style 1
+Label_26FD84DA_1192_842E_4196_55FD11D88D22.text = Theatre Style 1
+Label_00440B1B_22C8_3297_41BB_E655B466222C.text = Theatre Style 1
+Label_35D39201_15F7_7679_4193_60ABA2F97145.text = Theatre Style 1
+Label_26FDA4DD_1192_842A_41A8_C61F2780D084.text = Theatre Style 2
+Label_26FC14DC_1192_842A_4182_CE8E61853C06.text = Theatre Style 2
+Label_35C5E4A7_15F7_B3B9_419E_8FBAC121CE6D.text = Theatre Style 2
+Label_35C5E4A7_15F7_B3B9_419E_8FBAC121CE6D_mobile.text = Theatre Style 2
+Label_261233C4_1192_9C1A_41AF_991758EA09D7_mobile.text = Theatre Style 2
+Label_0BABF090_15D4_B397_41B4_21FE279522B0_mobile.text = Theatre Style 2
+Label_2613C3C5_1192_9C1A_4197_66C36CA8BFBC_mobile.text = Theatre Style 2
+Label_0BC3E5A1_15ED_5DB9_41AE_13D1894297CE_mobile.text = Theatre Style 2
+Label_26FC14DC_1192_842A_4182_CE8E61853C06_mobile.text = Theatre Style 2
+Label_26FDA4DD_1192_842A_41A8_C61F2780D084_mobile.text = Theatre Style 2
+Label_00449B1D_22C8_3293_41B4_E9340E43566A_mobile.text = Theatre Style 2
+Label_00453B1D_22C8_3293_4192_D5872BED4B7F_mobile.text = Theatre Style 2
+Label_00449B1D_22C8_3293_41B4_E9340E43566A.text = Theatre Style 2
+Label_00453B1D_22C8_3293_4192_D5872BED4B7F.text = Theatre Style 2
+Label_261233C4_1192_9C1A_41AF_991758EA09D7.text = Theatre Style 2
+Label_0BC3E5A1_15ED_5DB9_41AE_13D1894297CE.text = Theatre Style 2
+Label_2613C3C5_1192_9C1A_4197_66C36CA8BFBC.text = Theatre Style 2
+Label_0BABF090_15D4_B397_41B4_21FE279522B0.text = Theatre Style 2
+Label_ABFEF55C_BB7D_5405_41DB_AFA133BB14A3.text = VENUE INFO
+Label_35F4630D_0E10_51E2_418B_4C94DE4F2992_mobile.text = VIP LOUNGE
+Label_377B3DCE_0E30_307E_4155_7EC6AFF13079_mobile.text = VIP LOUNGE
+Label_35F4630D_0E10_51E2_418B_4C94DE4F2992.text = VIP LOUNGE
+Label_377B3DCE_0E30_307E_4155_7EC6AFF13079.text = VIP LOUNGE
+Label_003EBB08_22C8_3271_41B1_097A278BD352.text = VIRTUAL STAGING
+Label_26F544CB_1192_842E_41B0_DD618BF8C740.text = VIRTUAL STAGING
+Label_64540545_25D8_36F0_4152_5384FE78E564_mobile.text = VIRTUAL STAGING
+Label_00AFC558_22C8_F691_41BE_BA43604470B4_mobile.text = VIRTUAL STAGING
+Label_00AFC558_22C8_F691_41BE_BA43604470B4.text = VIRTUAL STAGING
+Label_260C83B2_1192_9C7E_41B1_7F2E2BA6C17D.text = VIRTUAL STAGING
+Label_003FBDC4_2238_F1F0_418C_D4BB929DDD8E.text = VIRTUAL STAGING
+Label_0124C28E_2238_7270_41B1_61FCCC6FA544.text = VIRTUAL STAGING
+Label_021FB39D_2238_7190_418E_1256D979E1E9.text = VIRTUAL STAGING
+Label_02ECEC0E_2238_7671_41B9_75385958F0F8.text = VIRTUAL STAGING
+Label_26F544CB_1192_842E_41B0_DD618BF8C740_mobile.text = VIRTUAL STAGING
+Label_64540545_25D8_36F0_4152_5384FE78E564.text = VIRTUAL STAGING
+Label_003EBB08_22C8_3271_41B1_097A278BD352_mobile.text = VIRTUAL STAGING
+Label_AA7087F6_BB7D_7404_41DA_96911752D883.text = VIRTUAL STAGING
+Label_260C83B2_1192_9C7E_41B1_7F2E2BA6C17D_mobile.text = VIRTUAL STAGING
+Label_6451054B_25D8_36F0_41B2_C0B57FEB8144_mobile.text = Workshop Style
+Label_6452854A_25D8_36F0_41A0_CFCC91849F88_mobile.text = Workshop Style
+Label_3443AC9D_15F5_5389_41AB_64BE684B479C_mobile.text = Workshop Style
+Label_6451054B_25D8_36F0_41B2_C0B57FEB8144.text = Workshop Style
+Label_3443AC9D_15F5_5389_41AB_64BE684B479C.text = Workshop Style
+Label_6452854A_25D8_36F0_41A0_CFCC91849F88.text = Workshop Style
+
+### Multiline Text
+HTMLText_3470D4CE_0E73_D07F_418C_7ED0AED86AAD.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Basic sound &amp; lighting equipment (as per Technical Brief)</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Up to 2 wireless handheld microphones</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Projection system x 1 unit (with projector screen)</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Steinway C Grand Piano</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Up to 120 banquet chairs (without seat covers)</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Up to 50 music stands</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– 1 registration table with 2 chairs</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– LED TV monitor at foyer area</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Dressing rooms</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– 1 technician</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Up to 2 ushers (for Event)</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Cleaning service</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Security service</SPAN></SPAN></DIV></div>
+HTMLText_11B38F4C_0A10_5062_41A1_FAD07834AFAB.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Basic sound &amp; lighting equipment (as per Technical Brief)</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Up to 4 wireless handheld microphones</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Projection system x 2 units (with projector screen)</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Steinway D Grand Piano</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– 4 LED TV monitors at audience area</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Rostrum with one microphone</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– 2 registration tables with 4 chairs</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– LED TV monitor at foyer area</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Dressing rooms at Level 10 (one floor above Auditorium)</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Up to 3 technicians</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Up to 8 ushers (for Event)</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Cleaning service</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Security service</SPAN></SPAN></DIV></div>
+HTMLText_35F92313_0E10_51E6_41A1_F07071C4697B.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Cleaning service</SPAN></SPAN></DIV></div>
+HTMLText_34AE7FB5_0E70_302D_41A7_B7D4F2A208C3.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Portable sound system (mixer, CD player, one pair of speakers, 1 wireless handheld microphone and 1 wireless clip-on microphone)</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Projection system x 1 unit (with projector screen)</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Up to 120 banquet chairs (without seat covers)</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– 1 registration table with 2 chairs</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– 1 technician</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Cleaning service</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Security service</SPAN></SPAN></DIV></div>
+HTMLText_36166230_0E70_5023_41A5_A301186F4F76.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Up to 50 banquet tables with lazy susan or 100 rectangular tables </SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">(without table linen)</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Up to 550 banquet chairs (without seat covers)</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Basic sound &amp; lighting equipment (as per Technical Brief)</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Up to 4 wireless handheld microphones</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Projection system x 3 units (with projector screens)</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– 2 registration tables with 4 chairs</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– LED TV monitor at foyer area</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Holding room</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Up to 2 technicians</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Up to 2 ushers (for Event)</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Cleaning service</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Security service</SPAN></SPAN></DIV></div>
+HTMLText_35F92313_0E10_51E6_41A1_F07071C4697B_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Cleaning service</SPAN></SPAN></DIV></div>
+HTMLText_34AE7FB5_0E70_302D_41A7_B7D4F2A208C3_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Portable sound system (mixer, CD player, one pair of speakers, 1 wireless handheld microphone and 1 wireless clip-on microphone)</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Projection system x 1 unit (with projector screen)</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Up to 120 banquet chairs (without seat covers)</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– 1 registration table with 2 chairs</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– 1 technician</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Cleaning service</SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Security service</SPAN></SPAN></DIV></div>
+HTMLText_37AED48C_0E10_50E3_417B_6E6EC87901C4.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">Capacity: 120</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">Area Size: 200 square metre</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">Location: Level 6</SPAN></SPAN></DIV></div>
+HTMLText_34AC9FAC_0E70_3023_4183_923965FAACF5.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">Capacity: 120</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">Area Size: 200 square metre</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">Location: Level 6</SPAN></SPAN></DIV></div>
+HTMLText_347344C9_0E73_D065_41A5_CDD58AA2C336.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">Capacity: 120</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">Area Size: 280 square metre</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">Location: Level 6</SPAN></SPAN></DIV></div>
+HTMLText_375FA06A_0E10_3026_416E_C3F3745CC97E.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">Capacity: 120</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">Area Size: 280 square metre</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">Location: Level 6</SPAN></SPAN></DIV></div>
+HTMLText_35F7830F_0E10_51FE_4177_B2E658B80283.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">Capacity: 20</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">Area Size: 80 square metre</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">Location: Level 9</SPAN></SPAN></DIV></div>
+HTMLText_377DEDD2_0E30_3066_4186_87FEDE390AB8.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">Capacity: 20</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">Area Size: 80 square metre</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">Location: Level 9</SPAN></SPAN></DIV></div>
+HTMLText_36D6A6D9_0E13_F065_4190_64F94822C088.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">Capacity: 550</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">Area Size: 1,680 square metre</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">Location: Level 7</SPAN></SPAN></DIV></div>
+HTMLText_36143226_0E70_502F_418A_D24BD83BC8E6.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">Capacity: 550</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">Area Size: 1,680 square metre</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">Location: Level 7</SPAN></SPAN></DIV></div>
+HTMLText_3C0D0630_2258_1290_41B1_ABBEE759AC36.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">Capacity: 553</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">Area Size: 1,850 square metre</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">Location: Level 9 &amp; 10</SPAN></SPAN></DIV></div>
+HTMLText_11B20F48_0A10_5062_418A_AD7277976832.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">Capacity: 553</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">Area Size: 1,850 square metre</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">Location: Level 9 &amp; 10</SPAN></SPAN></DIV></div>
+HTMLText_3470D4CE_0E73_D07F_418C_7ED0AED86AAD_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Basic sound &amp; lighting equipment (as per Technical Brief)</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Up to 2 wireless handheld microphones</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Projection system x 1 unit (with projector screen)</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Steinway C Grand Piano</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Up to 120 banquet chairs (without seat covers)</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Up to 50 music stands</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– 1 registration table with 2 chairs</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– LED TV monitor at foyer area</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Dressing rooms</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– 1 technician</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Up to 2 ushers (for Event)</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Cleaning service</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Security service</SPAN></SPAN></DIV></div>
+HTMLText_11B38F4C_0A10_5062_41A1_FAD07834AFAB_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Basic sound &amp; lighting equipment (as per Technical Brief)</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Up to 4 wireless handheld microphones</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Projection system x 2 units (with projector screen)</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Steinway D Grand Piano</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– 4 LED TV monitors at audience area</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Rostrum with one microphone</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– 2 registration tables with 4 chairs</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– LED TV monitor at foyer area</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Dressing rooms at Level 10 (one floor above Auditorium)</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Up to 3 technicians</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Up to 8 ushers (for Event)</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Cleaning service</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Security service</SPAN></SPAN></DIV></div>
+HTMLText_36166230_0E70_5023_41A5_A301186F4F76_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Up to 50 banquet tables with lazy susan or 100 rectangular tables </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">(without table linen)</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Up to 550 banquet chairs (without seat covers)</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Basic sound &amp; lighting equipment (as per Technical Brief)</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Up to 4 wireless handheld microphones</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Projection system x 3 units (with projector screens)</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– 2 registration tables with 4 chairs</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– LED TV monitor at foyer area</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Holding room</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Up to 2 technicians</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Up to 2 ushers (for Event)</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Cleaning service</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">– Security service</SPAN></SPAN></DIV></div>
+HTMLText_34AC9FAC_0E70_3023_4183_923965FAACF5_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">Capacity: 120</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">Area Size: 200 square metre</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">Location: Level 6</SPAN></SPAN></DIV></div>
+HTMLText_37AED48C_0E10_50E3_417B_6E6EC87901C4_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">Capacity: 120</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">Area Size: 200 square metre</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">Location: Level 6</SPAN></SPAN></DIV></div>
+HTMLText_375FA06A_0E10_3026_416E_C3F3745CC97E_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">Capacity: 120</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">Area Size: 280 square metre</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">Location: Level 6</SPAN></SPAN></DIV></div>
+HTMLText_347344C9_0E73_D065_41A5_CDD58AA2C336_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">Capacity: 120</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">Area Size: 280 square metre</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">Location: Level 6</SPAN></SPAN></DIV></div>
+HTMLText_35F7830F_0E10_51FE_4177_B2E658B80283_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">Capacity: 20</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">Area Size: 80 square metre</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">Location: Level 9</SPAN></SPAN></DIV></div>
+HTMLText_377DEDD2_0E30_3066_4186_87FEDE390AB8_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">Capacity: 20</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">Area Size: 80 square metre</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">Location: Level 9</SPAN></SPAN></DIV></div>
+HTMLText_36143226_0E70_502F_418A_D24BD83BC8E6_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">Capacity: 550</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">Area Size: 1,680 square metre</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">Location: Level 7</SPAN></SPAN></DIV></div>
+HTMLText_36D6A6D9_0E13_F065_4190_64F94822C088_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">Capacity: 550</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">Area Size: 1,680 square metre</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">Location: Level 7</SPAN></SPAN></DIV></div>
+HTMLText_11B20F48_0A10_5062_418A_AD7277976832_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">Capacity: 553</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">Area Size: 1,850 square metre</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">Location: Level 9 &amp; 10</SPAN></SPAN></DIV></div>
+HTMLText_3C0D0630_2258_1290_41B1_ABBEE759AC36_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">Capacity: 553</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">Area Size: 1,850 square metre</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:14px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:14px;font-family:'Belleza';">Location: Level 9 &amp; 10</SPAN></SPAN></DIV></div>
+
+## Tour
+
+### Description
+
+### Title
+tour.name = SCCC VR Tour
